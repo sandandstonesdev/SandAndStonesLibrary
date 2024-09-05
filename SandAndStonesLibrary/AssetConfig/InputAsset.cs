@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Text.Json.Serialization;
 
-namespace InputAssetBatchService.AssetConfig
+namespace SandAndStonesLibrary.AssetConfig
 {
     public class InputAsset
     {

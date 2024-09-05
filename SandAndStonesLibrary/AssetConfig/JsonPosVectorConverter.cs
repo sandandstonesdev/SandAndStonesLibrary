@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace InputAssetBatchService.AssetConfig
+namespace SandAndStonesLibrary.AssetConfig
 {
     public class JsonPosVectorConverter : JsonConverter<Vector4>
     {

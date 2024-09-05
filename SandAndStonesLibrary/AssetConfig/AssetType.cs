@@ -1,4 +1,4 @@
-﻿namespace InputAssetBatchService.AssetConfig
+﻿namespace SandAndStonesLibrary.AssetConfig
 {
     public enum AssetType : uint
     {

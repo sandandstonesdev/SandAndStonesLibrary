@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace InputAssetBatchService.AssetConfig
+namespace SandAndStonesLibrary.AssetConfig
 {
     public class InputAssetReader : IAsyncAssetReader
     {
