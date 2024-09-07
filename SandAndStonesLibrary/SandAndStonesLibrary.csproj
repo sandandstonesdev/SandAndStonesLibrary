@@ -8,7 +8,7 @@
     <RepositoryUrl>https://github.com/sandandstonesdev/SandAndStonesLibrary</RepositoryUrl>
     <Title>SandAndStonesLibrary</Title>
     <PackageId>SandAndStones.SandAndStonesLibrary</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>sandandstonesdev</Authors>
     <Product>SandAndStones.SandAndStonesLibrary</Product>
     <Company>sandandstonesdev</Company>
@@ -17,5 +17,13 @@
 	<RepositoryType>git</RepositoryType>
 	<IncludeSymbols>true</IncludeSymbols>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="TextureConfig\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="2.88.8" />
+  </ItemGroup>
 
 </Project>
