@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace InputTextureService.TextureConfig
 {
-    public class InputTextureReader : IAsyncTexturReader
+    public class InputTextureReader : IAsyncTextureReader
     {
         private readonly string fileName;
 

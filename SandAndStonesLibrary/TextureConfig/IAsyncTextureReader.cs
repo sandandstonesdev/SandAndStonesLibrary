@@ -1,6 +1,6 @@
 ﻿namespace InputTextureService.TextureConfig
 {
-    public interface IAsyncTexturReader
+    public interface IAsyncTextureReader
     {
         Task<InputTexture> ReadTextureAsync();
     }
